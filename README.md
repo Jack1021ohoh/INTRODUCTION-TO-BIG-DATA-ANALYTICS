@@ -6,4 +6,4 @@ This is the final project for the INTRODUCTION TO BIG DATA ANALYTICS course. We 
 
 ---
 ### Data Source
-Source link: [1]: https://www.kaggle.com/datasets/blastchar/telco-customer-churn        "游標顯示"
+Source link: https://www.kaggle.com/datasets/blastchar/telco-customer-churn        "游標顯示"
